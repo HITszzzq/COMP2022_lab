@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1618574098 source:f:\数据结构第二次实验课_0416\学生代码\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1618574098 source:f:\200111130_周忠全_实验3\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
